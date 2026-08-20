@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+.funcionalidades{
+    padding: 20px;
+}
+
+.funcionalidades h2{
+    color:deepskyblue;
+}
