@@ -12,6 +12,10 @@ body{
     padding: 20px;
 }
 
-.funcionalidades h2{
-    color:deepskyblue;
+.funcionalidades h2 {
+    color:crimson;
+}
+
+.secao-principal{
+    background-color:crimson;
 }
